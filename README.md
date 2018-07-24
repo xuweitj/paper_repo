@@ -1,7 +1,4 @@
-## Blogs
-**To add...**
-
-## Deep Learning background
+##Basic Knowledge
 An overview of gradient descent optimization algorithms:
 [arxiv](https://arxiv.org/abs/1609.04747)
 
@@ -82,7 +79,7 @@ SegNet:
 
 ## Network Analysis
 Speed accuracy trade-offs for modern convolutional object detectors: 
-[arxiv](https://arxiv.org/abs/1611.10012) 
+[arxiv](https://arxiv.org/abs/1611.10012)   
 Residual Networks Behave Like Ensembles of Relatively Shallow Networks: 
 [arxiv](https://arxiv.org/abs/1605.06431) 
 
