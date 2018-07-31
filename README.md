@@ -27,7 +27,7 @@ SqueezeNet:
 [arxiv](https://arxiv.org/abs/1602.07360)  
 ShuffleNet:
 [v1](https://arxiv.org/abs/1707.01083)
-[v2](miss)
+[v2](https://arxiv.org/abs/1807.11164)     
 Xception: 
 [arxiv](https://arxiv.org/abs/1610.02357)  
 IGCV2:
