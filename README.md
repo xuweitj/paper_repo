@@ -1,8 +1,9 @@
-##Basic Knowledge
+## Basic Knowledge
 An overview of gradient descent optimization algorithms:
 [arxiv](https://arxiv.org/abs/1609.04747)
 
-## Classification
+## 
+
 AlexNet: [paper](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)  
 VGG: [arxiv](https://arxiv.org/abs/1409.1556)  
 Inception: 
@@ -25,9 +26,12 @@ MobileNet:
 SqueezeNet: 
 [arxiv](https://arxiv.org/abs/1602.07360)  
 ShuffleNet:
-[arxiv](https://arxiv.org/abs/1707.01083)  
+[v1](https://arxiv.org/abs/1707.01083)
+[v2](miss)
 Xception: 
 [arxiv](https://arxiv.org/abs/1610.02357)  
+IGCV2:
+[arxiv](https://arxiv.org/abs/1804.06202)
 
 ## Object Detection
 R-CNN: 
