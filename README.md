@@ -2,7 +2,7 @@
 An overview of gradient descent optimization algorithms:
 [arxiv](https://arxiv.org/abs/1609.04747)
 
-## 
+## Classification
 
 AlexNet: [paper](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)  
 VGG: [arxiv](https://arxiv.org/abs/1409.1556)  
@@ -44,6 +44,10 @@ Faster R-CNN:
 [arxiv](https://arxiv.org/abs/1506.01497) 
 [pycaffe](https://github.com/rbgirshick/py-faster-rcnn)
 [matcaffe](https://github.com/ShaoqingRen/faster_rcnn)
+
+PVANet:
+[arxiv](https://arxiv.org/abs/1611.08588)
+[code](https://github.com/sanghoon/pva-faster-rcnn)
 
 SSD: 
 [arxiv](https://arxiv.org/abs/1512.02325)
